@@ -1,60 +1,33 @@
-<html>
-	<h1>BB</h1>
-</html>	
-	
-<! DOCTYPE html>
-<html lang="pt-br>
-    <meta charset="UTF-8">
-
-         <h1 align="center"><font color="#696969">BB</h1></font>
-     
-       <align="center"><imgid="imagem1.jpg"img"src "
+<div>
+<h1>BB</h1>
+</div>
+<align="center"><imgid="imagem1.jpg"img"src "https://raw.githubusercontent.com/rebeca051/imagem-/main/imagem1.jpg.jpeg"
 largura="40px"altura="40px">
-  <link rel="stylesheet" herf="estilo.css">
-    
-    
-    <cabeça><fonte>
-       <corpo bgcolor="Turquesa">                           
-                                               
-       <h2 align="left"> <b>MISSÃO</h2><b>
-       <h4 align="justify"> <p>Proporcionar uma experiência premium com inovação no tradicional doce brasileiro:
-       brigadeiro</h4></p>
-
-       <h2 align="left"><b>VISÃO</h2><b>
-       <h4 align="justify"> <p>Queremos alcançar um grande número de pessoas, e mostra que é possível fugir do
-       óbvio, inovar, sem perder a real essência do clássico.</h4></p>
-
-       <h2 align="left"> <b>O QUE FAZEMOS? </h2><b<b>
-       <h4 align="justify"> <p>Uma experiência, entregando diversos sabores de brigadeiro, além do tradicional.</h4></p>
-
-       <h2 align="left"> <b>QUEM SOMOS? </h2><b<b>
-       <h4 align="justify"> <p>Um grupo de estudantes empenhado em entrar no ramo de negócios e
-       empreendedorismo culinário com o intuito de apresentar a inovação jovem para o
-       mercado. </h4></p>
-
-       <h2 align="left"> <b>O QUE OFERECEMOS? </h2><b<b>
-       <h4 align="justify"> <p>Aqui vocês podem inserir a descrição corrida ou em forma de lista, conforme tags abaixo</h4></p> 
-        </corpo>
-     </cabeça></fonte>
-
-<div><h2 align="esquerda"><b>NOSSOS PRODUTOS</h2><b>
-  
-  <ul tipo="quadrado">
-<li>Brigadeiro
-<li>Beijinho
-<li>
-<li>
-<li>
-  </ul></div> 
-
-    <footer align="center"><h5>Colocar o endereço Fone Telefone para pedidos(44) xxxxxxx</rodapé> 
-    <h5><p><a data-fr-linked="true" href="https://instagram.com/brigadeiros.bb?igshid=YmMyMTA2M2Y="></a>h5></a></p>
-
-  
-</.html>
-	
-
-
-
-
-
+<div>
+<h2 align="left"><strong>MISS&Atilde;O</strong></h2>
+</div>
+<div>
+<p>Proporcionar uma experi&ecirc;ncia premium com inova&ccedil;&atilde;o no doce tradicional brasileiro: brigadeiro</p>
+<h2 align="left"><strong>VIS&Atilde;O</strong></h2>
+<p>Que alcan&ccedil;ar&aacute; um grande n&uacute;mero de pessoas, e mostra que &eacute; poss&iacute;vel fugir do &oacute;bvio, inovar, sem perder a ess&ecirc;ncia verdadeira do cl&aacute;ssico.</p>
+<h2 align="left"><strong>O QUE FAZ?</strong></h2>
+<p>Uma experi&ecirc;ncia, entregando diversos sabores de brigadeiro, al&eacute;m do tradicional.</p>
+<h2 align="left"><strong>QUEM SOMOS? </strong></h2>
+<p>Um grupo de estudantes empenhados em entrar no ramo de neg&oacute;cios e empreendedorismo culin&aacute;rio com o intuito de apresentar a inova&ccedil;&atilde;o jovem para o mercado.</p>
+<h2 align="left"><strong>O QUE OFERECEMOS? </strong></h2>
+<p>Aqui voc&ecirc;s podem inserir a descri&ccedil;&atilde;o corrida ou em forma de lista, etiquetas abaixo conforme conforme</p>
+</div>
+<div>
+<div>
+<h2 align="esquerda"><strong>NOSSOS PRODUTOS</strong></h2>
+<ul>
+<li>Brigadeiro</li>
+<li>Beijinho</li>
+<li>&nbsp;</li>
+</ul>
+</div>
+</div>
+<div><footer>
+<h5>Colocando o endere&ccedil;o Fone Telefone para pedidos(44) xxxxxxx&lt;/rodap&eacute;&gt;</h5>
+<h5>https://instagram.com/brigadeiros.bb?igshid=YmMyMTA2M2Y=</h5>
+</footer></div>
