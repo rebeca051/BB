@@ -4,7 +4,6 @@
 	
 <! DOCTYPE html>
 <html lang="pt-br>
- <>
     <meta charset="UTF-8">
 
          <h1 align="center"><font color="#696969">BB</h1></font>
