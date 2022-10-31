@@ -2,7 +2,7 @@
 <h1>BB</h1>
 </div>
 
-<align="center"><imgid="imagem1.jpg"img"src=https://raw.githubusercontent.com/rebeca051/imagem-/main/imagem1.jpg.jpeg"
+<align="center"><"imagem1.jpg"img"src="https://raw.githubusercontent.com/rebeca051/imagem-/main/imagem1.jpg.jpeg"
 largura="40px"altura="40px">
 
 <div>
