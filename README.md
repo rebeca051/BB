@@ -7,7 +7,11 @@
     <meta charset="UTF-8">
 
          <h1 align="center"><font color="#696969">BB</h1></font>
-         <alinhar="centro"> <img id="imagem1.jpg="imagem1.jpg">
+         
+	 ! [GitHub Logo]
+(/images/logo.png)
+Format: ! [Alt Text] (https://www.canva.com/design/DAFOpe-02BM/jby4ZbvmFH_VNGl8gS8X-w/edit?utm_content=DAFOpe-02BM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<alinhar="centro"> <img id="imagem1.jpg="imagem1.jpg">
          largura="40px" altura="40px">
   <link rel="stylesheet" herf="estilo.css">
     
