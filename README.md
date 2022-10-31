@@ -7,12 +7,9 @@
     <meta charset="UTF-8">
 
          <h1 align="center"><font color="#696969">BB</h1></font>
-         
-	 ! [GitHub Logo]
-(/images/logo.png)
-Format: ! [Alt Text] blob:https://web.whatsapp.com/5def4257-9664-4501-9b5c-96ce5b3e8421
-<alinhar="centro"> <img id="imagem1.jpg="imagem1.jpg">
-         largura="40px" altura="40px">
+     
+       <align="center"><imgid="imagem1.jpg"img"src "
+largura="40px"altura="40px">
   <link rel="stylesheet" herf="estilo.css">
     
     
